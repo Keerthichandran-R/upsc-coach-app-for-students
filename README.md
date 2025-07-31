@@ -60,32 +60,6 @@ It blends structured study planning with mood tracking, journaling, affirmations
 | PDF Access    | Embedded link/download in app |
 
 ---
-Shraddha-Study-Coach/
-│
-├── app.py
-├── README.md
-├── utils.py
-├── requirements.txt
-├── planner.csv
-├── mood_journal.csv
-├── affirmations.json
-├── quotes.json
-│
-├── assets/
-│   ├── logo.png
-│   ├── bell_sound.mp3
-│   └── upsc_syllabus.pdf
-│
-├── uploaded_notes/
-│   ├── gs1/
-│   ├── gs2/
-│   ├── gs3/
-│   ├── gs4/
-│   ├── essay/
-│   └── optional/
-
-
----
 
 ## 🚀 How to Run Locally
 
