@@ -62,22 +62,27 @@ It blends structured study planning with mood tracking, journaling, affirmations
 ---
 Shraddha-Study-Coach/
 │
-├── app.py # Main Streamlit app
-├── planner.csv # Study tracker
-├── mood_journal.csv # Mood + journal entries
-├── affirmations.json # Affirmations list
-├── quotes.json # Soul quote bank
-├── uploaded_notes/ # Uploaded PDFs/images
-│ ├── gs1/
-│ ├── gs2/
-│ ├── essay/
-│ └── ethics/
+├── app.py
+├── README.md
+├── utils.py
+├── requirements.txt
+├── planner.csv
+├── mood_journal.csv
+├── affirmations.json
+├── quotes.json
+│
 ├── assets/
-│ ├── logo.png
-│ ├── bell_sound.mp3
-│ └── upsc_syllabus.pdf # Downloadable official syllabus
-├── utils.py # Helper functions
-└── README.md # This file
+│   ├── logo.png
+│   ├── bell_sound.mp3
+│   └── upsc_syllabus.pdf
+│
+├── uploaded_notes/
+│   ├── gs1/
+│   ├── gs2/
+│   ├── gs3/
+│   ├── gs4/
+│   ├── essay/
+│   └── optional/
 
 
 ---
