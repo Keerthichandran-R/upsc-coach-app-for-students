@@ -80,3 +80,13 @@ Shraddha-Study-Coach/
 └── README.md # This file
 
 
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/yourusername/shraddha-study-coach.git
+cd shraddha-study-coach
+pip install -r requirements.txt
+streamlit run app.py
+
