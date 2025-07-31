@@ -85,7 +85,7 @@ Shraddha-Study-Coach/
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/shraddha-study-coach.git
+git clone https://github.com/keerthichandran-r/shraddha-study-coach.git
 cd shraddha-study-coach
 pip install -r requirements.txt
 streamlit run app.py
