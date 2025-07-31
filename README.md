@@ -69,6 +69,7 @@ cd shraddha-study-coach
 pip install -r requirements.txt
 streamlit run app.py
 
+---
 
 
 📚 [Download Full UPSC Syllabus (PDF)](./assets/UPSC_Syllabus.pdf)
