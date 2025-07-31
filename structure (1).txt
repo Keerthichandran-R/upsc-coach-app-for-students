@@ -1,0 +1,23 @@
+Shraddha-Study-Coach/
+│
+├── app.py
+├── README.md
+├── utils.py
+├── requirements.txt
+├── planner.csv
+├── mood_journal.csv
+├── affirmations.json
+├── quotes.json
+│
+├── assets/
+│   ├── logo.png
+│   ├── bell_sound.mp3
+│   └── upsc_syllabus.pdf
+│
+├── uploaded_notes/
+│   ├── gs1/
+│   ├── gs2/
+│   ├── gs3/
+│   ├── gs4/
+│   ├── essay/
+│   └── optional/
