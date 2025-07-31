@@ -72,4 +72,3 @@ streamlit run app.py
 ---
 
 
-📚 [Download Full UPSC Syllabus (PDF)](./assets/UPSC_Syllabus.pdf)
