@@ -61,5 +61,5 @@ It blends structured study planning with mood tracking, journaling, affirmations
 
 ---
 
-## 📁 Project Structure
+
 
